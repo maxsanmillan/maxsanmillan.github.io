@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Working Papers"
+permalink: /publications/
+author_profile: true
+---
 "Sectoral Credit Allocation, Capital Requirements and Financial Stability" [Download paper here](http://maxsanmillan.github.io/files/Sectoral_Credit_Allocation_Cap_Reqs.pdf)
 
 **Abstract**: 
