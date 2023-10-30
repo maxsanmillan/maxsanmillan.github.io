@@ -15,8 +15,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /CV_San_Millan.pdf/
+ # - title: "CV"
+ #   url: /CV_San_Millan.pdf/
     
   #- title: "Guide"
   #  url: /markdown/
