@@ -1,3 +1,6 @@
-"Sectoral Credit Allocation, Capital Requirements and Financial Stability"
-Abstract:
-[Download paper here](http://maxsanmillan.github.io/files/Sectoral_Credit_Allocation_Cap_Reqs.pdf)
+"Sectoral Credit Allocation, Capital Requirements and Financial Stability" [Download paper here](http://maxsanmillan.github.io/files/Sectoral_Credit_Allocation_Cap_Reqs.pdf)
+
+Abstract: 
+Banking crises are often preceded by large expansions in residential real estate credit. However, banks' prudential regulation imposes typically lower minimum equity-capital funding requirements on residential real estate lending than on corporate lending. This paper quantifies the consequences of regulatory designs that fail to take into account the macroprudential dimension of the growth in real estate lending. I develop a DSGE model in which banks intermediate real estate loans to households and corporate loans to firms and where abnormally high defaults in either of these sectors can make banks fail. Calibrated for the Euro Area, results show that capital requirements based on the default risk of individual exposures amplify the reallocation of credit towards the real estate sector in the path to banking crises. Distortions to the allocation of credit in the path to crises, as well as the frequency and severity of banking crises, can be better mitigated by sector-specific macroprudential buffers than by generic buffers such as the Countercyclical Capital Buffer (CCyB) of Basel III.
+
+
