@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "CEMFI"
-date: 2019
+date: 2019-01-01
 location: "Madrid"
 ---
 
