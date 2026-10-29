@@ -4,6 +4,17 @@ title: "Working Papers"
 permalink: /publications/
 author_profile: true
 ---
+"Local Credit Markets and Firm Borrowing Costs" [Download paper here](http://maxsanmillan.github.io/files/Local_Credit_Markets_Firms_Borrowing_Costs.pdf)
+
+**Abstract**: 
+Using administrative data on the universe of bank loans to Chilean firms, we document that
+firm borrowing costs vary widely across cities. Among comparable firms and loans, average
+spreads differ by 196 basis points between cities at the 10th and 90th percentiles. Location is
+the largest single component of the variance in city-average spreads, ahead of borrower risk, loan
+and firm characteristics, and bank identity. Spreads are higher in richer cities and in cities with
+more loan concentration across banks, although these characteristics explain less than a fifth of
+the total variation in location premia.
+
 "Sectoral Credit Allocation, Capital Requirements and Financial Stability" [Download paper here](http://maxsanmillan.github.io/files/Sectoral_Credit_Allocation_Cap_Reqs.pdf)
 
 **Abstract**: 
